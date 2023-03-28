@@ -1,0 +1,1 @@
+//WAP to find min. number from given 5 number using switch case (ternary/ nested if-else)

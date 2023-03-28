@@ -1,0 +1,1 @@
+//WAP to find sum of first and last number...and mediator number
